@@ -16,7 +16,5 @@ O objetivo deste projeto é criar uma página web para permitir que usuários se
 
 ## Como Executar Localmente
 
-Ramon Barbosa
-Engenheiro de Software em formação.
-frontend developer in progress.
+
 
